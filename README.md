@@ -11,11 +11,11 @@ Data Visualization : Power Bi,
 Datasets : Kaggle
 
 # Objective
-1]Boost Sales Revenue: Develop a real-time Myntra Sales Dashboard in Power BI, targeting a 25% increase in sales revenue.
-2]Enhance Customer Engagement: Analyze customer trends and product popularity to achieve a 20% improvement in customer engagement.
-3]Improve Data Visualization Efficiency: Enhance efficiency by 35% through dynamic charts and slicers, improving visualization clarity and user experience.
-4]Ensure Accurate KPI Tracking: Achieve 95% accuracy in tracking conversion rates and average order value, aiding in better decision-making.
-5]Increase User Interactivity: Implement interactive filters to increase user engagement and understanding of sales patterns, enhancing usability and insights.
+1] Boost Sales Revenue: Develop a real-time Myntra Sales Dashboard in Power BI, targeting a 25% increase in sales revenue.
+2] Enhance Customer Engagement: Analyze customer trends and product popularity to achieve a 20% improvement in customer engagement.
+3] Improve Data Visualization Efficiency: Enhance efficiency by 35% through dynamic charts and slicers, improving visualization clarity and user experience.
+4] Ensure Accurate KPI Tracking: Achieve 95% accuracy in tracking conversion rates and average order value, aiding in better decision-making.
+5] Increase User Interactivity: Implement interactive filters to increase user engagement and understanding of sales patterns, enhancing usability and insights.
 
 ![myntra_dashboard](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/0fc1686f-fc4b-40dc-95b8-527521c5bf8f)
 
